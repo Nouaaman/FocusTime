@@ -1,3 +1,2 @@
-# focusTime
-
-react-native app using expo 
+# react-native app using expo 
+run app : yarn android
